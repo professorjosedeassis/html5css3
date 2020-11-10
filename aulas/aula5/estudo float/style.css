@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+
+#vermelho {
+    width: 250px;
+    height: 250px;
+    background-color: #ff0000;
+    float: left;
+}
+
+#verde {
+    width: 250px;
+    height: 250px;
+    background-color: #00ff00;
+    float: left;
+}
+
+#azul {
+    width: 300px;
+    height: 300px;
+    background-color: #0000ff;
+    clear: both;
+}

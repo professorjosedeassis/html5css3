@@ -1,0 +1,9 @@
+Estudo do float
+float: left;
+float: right;
+
+/* O float desloca o elemento uma camada (eixo z)
+   os demais elementos ocupam o espaço do elemento
+   deslocado
+*/
+clear: both; /*empurra o elmento abaixo dos floats*/
