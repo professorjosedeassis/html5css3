@@ -1,0 +1,62 @@
+/**
+* Estudo do posicionamento do elementos (position)
+* @author Professor José de Assis
+* data 26/09/2018
+*/
+
+body{
+	font-family: sans-serif;
+}
+
+/** as propriedades top, right, bottom e left não funcionam no posisicionamento estático **/
+#static{
+	position: static;
+	padding: 50px; /* box-model - em volta do elemento */
+	background-color: #00ffff;	
+}
+
+#relative1{
+	position: relative;
+	padding: 50px;
+	background-color: #ff0000;
+	color: #ffffff;
+	/*top: -30px;*/
+}
+
+#relative2{
+	position: relative;
+	width: 500px;
+	background-color: #00ff00;
+	padding: 30px;
+	top: -30px;
+	left: 30px;
+}
+
+#relative3{
+	position: relative;
+	width: 600px;
+	height: 400px;
+	background-color: #ffff00;
+	padding: 20px;	
+}
+
+#absolute{
+	position: absolute;
+	width: 300px;
+	height: 200px;
+	background-color: #0000ff;
+	color: #ffffff;
+	padding: 20px;
+	top: 120px;
+	right: 0px;
+}
+
+#fixed{
+	position: fixed;
+	width: 200px;
+	padding: 30px;
+	background-color: #000000;
+	color: #ffffff;
+	right: 0px;
+	bottom: 0px;
+}
