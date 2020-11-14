@@ -21,32 +21,25 @@ body {
     display: none;
 }
 
-nav {
-    width: 100%;
-    height: 50px;
-    background-color: #343538;
-}
-
 nav ul {
     list-style: none; /*remoção dos bullets*/
-    /*float: right;*/
+    float: right;
 }
 
 nav ul li {
     display: inline-block;
-    line-height: 50px; /*espaçamento vertical*/
+    padding: 20px;
+     
 }
 
 nav ul li a {
-    color: #ffffff;
     text-decoration: none; /*remover o sublinhado*/
-    padding: 0px 20px 0px 20px; /*box model: top right bottom left */
-    display: block; /*deixar todo o bloco do link clicável*/
+    color:#343538;    
 }
 
 nav ul li a:hover {
-    background-color: #00bcff;
-    transition: all 0.5s;
+    color: #ee0000;
+    transition: all 0.5s;      
 }
 
 /* Tratamento responsivo */
@@ -56,12 +49,7 @@ nav ul li a:hover {
         display: block;
     }
 
-    nav {
-        background-color: #ffffff;
-    }
-
     nav ul {
-        background-color: #343538;
         width: 100%;
         height: 100vh; /*altura total da tela do dispositivo*/
         position: fixed;
@@ -72,6 +60,7 @@ nav ul li a:hover {
 
     nav ul li {
         display: block;
+        border-bottom: 1px solid #e8e8e8;
     }
 
     /* o código abaixo se refere a seleção do checkbox */
