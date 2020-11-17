@@ -1,13 +1,65 @@
-/********* Importando fonts **********/
+/********* Importando fontes **********/
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
 
-/********* Padrão de todas as páginas *********/
-*{
+/* Padronização dos navegadores */
+* {
     padding: 0;
     border: 0;
     margin: 0;
+    box-sizing: border-box;
 }
 
-body{
+/* smartphone portrait */
+body {
     font-family: 'Open Sans', sans-serif;
+    font-size: 1em;
+}
+
+header {
+    background-color: #ffff00;
+    height: 80px;
+    border-bottom: 2px solid #a9a9a9;
+}
+
+#logo {
+    float: left;
+    margin: 10px 0px 0px 10px;
+}
+
+#logo img {
+    width: 75%;
+    height: 75%;
+}
+
+footer {
+    background-color: #343538;
+    color: #d3d3d3;
+    padding: 30px 0px 30px 0px;
+    text-align: center; /* centralização do texto */
+    font-size: 0.875em;
+}
+
+/*************** Media Queries ***************/
+/* smartphone landscape */
+@media (min-width: 576px) {
+      
+}
+
+/* tablet portrait */
+@media (min-width: 768px) {
+    footer {
+        font-size: 1em;
+    }
+}
+
+/* tablet landscape ou desktop antigo */
+@media (min-width: 992px) {
+    
+}
+
+/* notebook ou desktop */
+@media (min-width: 1200px) {
+     footer {
+        padding: 40px 0px 40px 0px;
+     }
 }

@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box; /*padronizar o box model ao tamanho da borda */
+}
+
+#teste1 {
+    width: 200px;
+    line-height: 200px;
+    background-color: #ffff00;
+}
+#teste2 {
+    width: 200px;
+    line-height: 200px;
+    background-color: #00ffff;
+    padding: 0px 30px 0px 30px;
+}
