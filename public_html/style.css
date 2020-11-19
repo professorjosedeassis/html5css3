@@ -10,13 +10,19 @@
 }
 
 /* smartphone portrait */
+/* Layout */
 body {
     font-family: 'Open Sans', sans-serif;
     font-size: 1em;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Cabeçalho */
 header {
-    background-color: #ffff00;
     height: 80px;
     border-bottom: 2px solid #a9a9a9;
 }
@@ -27,8 +33,46 @@ header {
 }
 
 #logo img {
-    width: 75%;
-    height: 75%;
+    width: 270px; /* 75% de 360px */
+    height: 60px; /* 75% de 80px */
+}
+
+nav {
+    float: right;
+}
+
+#check {
+    display: none;
+}
+
+#mobile {
+    font-size: 3em;
+    margin-right: 15px;
+}
+
+nav ul {
+    list-style: none;
+    background-color: #343538;
+    width: 100%;
+    height: 100vh;
+    position: fixed;
+    top: 80px;
+    left: -100%;
+    transition: all 0.5s;
+}
+
+nav ul li {
+    padding: 20px;
+    border-bottom: 1px solid #a9a9a9;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+#check:checked ~ ul {
+    left: 0px;
 }
 
 footer {
@@ -42,11 +86,18 @@ footer {
 /*************** Media Queries ***************/
 /* smartphone landscape */
 @media (min-width: 576px) {
-      
+      .Layout{
+          max-width: 540px;
+          margin: 0 auto; /* centralizar o bloco no dispositivo */
+      }
 }
 
 /* tablet portrait */
 @media (min-width: 768px) {
+    .Layout {
+        max-width: 720px;
+    }
+    
     footer {
         font-size: 1em;
     }
@@ -54,7 +105,41 @@ footer {
 
 /* tablet landscape ou desktop antigo */
 @media (min-width: 992px) {
-    
+    .Layout {
+        max-width: 960px;
+    }
+
+    /*modificação do cabeçalho e menu*/
+    header {
+        height: 100px;
+    }
+
+    #logo img {
+        width: 100%;
+        height: 100%;
+    }
+
+    #mobile {
+        display: none;
+    }
+
+    nav ul {
+        background-color: #ffffff;
+        position: static;
+        height: auto;
+        margin-top: 15px;
+    }
+
+    nav ul li {
+        display: inline-block;
+        border: 0;
+    }
+
+    nav ul li a {
+        color: #343538;
+    }
+
+
 }
 
 /* notebook ou desktop */
