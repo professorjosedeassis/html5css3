@@ -1,0 +1,12 @@
+Atividades:
+
+1) Finalizar o template (index.html) verificando e ajustando todos os pontos de quebra (site responsivo)
+
+2) Inserir no template uma imagem que indique o site em construção (centralizar a imagem na folha de estilo).
+
+3) Usando o template, criar e linkar no menu de navegação as páginas:
+sobre.html
+conteudo.html
+contato.html
+
+4) Criar um conteúdo (subtítulo, imagem, texto, etc) na página sobre.html e formatar esta página em style.css 

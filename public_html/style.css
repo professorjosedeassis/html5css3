@@ -1,7 +1,7 @@
 /********* Importando fontes **********/
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
 
-/* Padronização dos navegadores */
+/**** Padronização dos navegadores ****/
 * {
     padding: 0;
     border: 0;
@@ -9,7 +9,7 @@
     box-sizing: border-box;
 }
 
-/* smartphone portrait */
+/**** smartphone portrait ****/
 /* Layout */
 body {
     font-family: 'Open Sans', sans-serif;
@@ -57,7 +57,7 @@ nav ul {
     height: 100vh;
     position: fixed;
     top: 80px;
-    left: -100%;
+    right: -100%;
     transition: all 0.5s;
 }
 
@@ -72,9 +72,22 @@ nav ul li a {
 }
 
 #check:checked ~ ul {
-    left: 0px;
+    right: 0px;
 }
 
+/* Site em construção */
+#construcao {
+    text-align: center;
+    padding: 30px 0px 30px 0px;
+}
+
+/* Sobre */
+#sobre {
+    /** Atividade: Criar um estilo para a página sobre **/
+    /** Precisa ser responsivo, hospedar ao final **/
+}
+
+/* Rodapé */
 footer {
     background-color: #343538;
     color: #d3d3d3;
@@ -84,7 +97,7 @@ footer {
 }
 
 /*************** Media Queries ***************/
-/* smartphone landscape */
+/**** smartphone landscape ****/
 @media (min-width: 576px) {
       .Layout{
           max-width: 540px;
@@ -92,7 +105,7 @@ footer {
       }
 }
 
-/* tablet portrait */
+/**** tablet portrait ****/
 @media (min-width: 768px) {
     .Layout {
         max-width: 720px;
@@ -103,7 +116,7 @@ footer {
     }
 }
 
-/* tablet landscape ou desktop antigo */
+/**** tablet landscape ou desktop antigo ****/
 @media (min-width: 992px) {
     .Layout {
         max-width: 960px;
@@ -138,13 +151,22 @@ footer {
     nav ul li a {
         color: #343538;
     }
-
-
 }
 
-/* notebook ou desktop */
+/**** notebook ou desktop ****/
 @media (min-width: 1200px) {
-     footer {
+    .Layout {
+        max-width: 1140px;
+    }
+
+    /* Cabeçalho */
+    header {
+        height: 120px;
+        padding-top: 20px;
+    }
+
+    /* rodapé */
+    footer {
         padding: 40px 0px 40px 0px;
-     }
+    }
 }
