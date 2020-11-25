@@ -81,6 +81,46 @@ nav ul li a {
     padding: 30px 0px 30px 0px;
 }
 
+/* Formulário de contato */
+#contato{
+    width: 80%;
+    margin: 0 auto;
+    padding-bottom: 30px;
+}
+
+#contato h1{
+    margin: 30px 0px 30px 0px;
+    color: #343538;
+}
+
+#contato input[type=text]{
+    width: 100%;
+    border: 1px solid #343538;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px; /*arredondar os cantos*/
+}
+
+#contato textarea{
+    width: 100%;
+    border: 1px solid #343538;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding: 10px 10px 40px 10px;
+    resize: none;
+}
+
+#contato input[type=submit]{
+    background-color: #343538;
+    border: 1px solid #000000;
+    color: #ffffff;
+    border-radius: 5px;
+    padding: 10px 25px 10px 25px;
+    /*float: right;*/
+    /*margin-bottom: 30px;*/
+}
+
+
 /* Sobre */
 #sobre {
     /** Atividade: Criar um estilo para a página sobre **/
@@ -89,6 +129,7 @@ nav ul li a {
 
 /* Rodapé */
 footer {
+    /*clear: both;*/   
     background-color: #343538;
     color: #d3d3d3;
     padding: 30px 0px 30px 0px;
@@ -150,6 +191,15 @@ footer {
 
     nav ul li a {
         color: #343538;
+    }
+
+    nav ul li a:hover {
+        color: #ee0000;
+    }
+
+    /* Formulário de contato */
+    #contato{
+        width: 60%;
     }
 }
 
