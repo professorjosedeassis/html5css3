@@ -1,0 +1,4 @@
+Para enviar um e-mail através de um formulário de contato é necessário que a hospedagem ofereça suporte ao serviço de e-mail e também a linguagem php (back-end)
+
+No exemplo criamos um formulário  de contato identifiv=cando os campos através da propriedade name.
+O formulário é submetdo ao documento php que recebe os campos e envia a menagem ao e-mail configurado.
