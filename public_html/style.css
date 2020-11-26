@@ -75,6 +75,27 @@ nav ul li a {
     right: 0px;
 }
 
+/* Banner */
+#banner {
+    background: url(imagens/banner.jpg) center;
+    height: 50vh; /*50% da altura*/
+    background-size: cover; /*mantem a mesma proporção independente da tela*/
+    /* centralizar o conteúdo dentro do banner (vertical e horizontal */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+#banner h1 {
+    font-size: 2em;
+    color: #ffffff;    
+}
+
+#banner h2 {
+    display: none;
+}
+
 /* Site em construção */
 #construcao {
     text-align: center;
@@ -116,8 +137,7 @@ nav ul li a {
     color: #ffffff;
     border-radius: 5px;
     padding: 10px 25px 10px 25px;
-    /*float: right;*/
-    /*margin-bottom: 30px;*/
+    
 }
 
 
@@ -129,7 +149,7 @@ nav ul li a {
 
 /* Rodapé */
 footer {
-    /*clear: both;*/   
+  
     background-color: #343538;
     color: #d3d3d3;
     padding: 30px 0px 30px 0px;
@@ -213,6 +233,21 @@ footer {
     header {
         height: 120px;
         padding-top: 20px;
+    }
+
+    #banner {
+        height: 100vh;
+        background-attachment: fixed; /*fixa o banner na rolagem da página*/
+    }
+
+    #banner h1 {
+        font-size: 3em;
+    }
+
+    #banner h2 {
+        display: block;
+        font-size: 1.5em;
+        color: #ffffff;
     }
 
     /* rodapé */
