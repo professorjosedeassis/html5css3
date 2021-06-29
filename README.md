@@ -1,4 +1,4 @@
-# HTML5 e CSS3
+# HTML5 e CSS3 - One page site
 Aprenda HTML5, CSS3 e SEO de forma simples, prática e objetiva desenvolvendo passo a passo do zero até a hospedagem um site moderno e responsivo.
 ## Apresentação do projeto
 [![HTML5 e CSS3 - One Page Site](https://img.youtube.com/vi/bS720dGvAn8/0.jpg)](https://youtu.be/bS720dGvAn8 "Apresentação do projeto")
