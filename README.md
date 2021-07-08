@@ -26,3 +26,8 @@ Aprenda HTML5, CSS3 e SEO de forma simples, prática e objetiva desenvolvendo pa
 [iconfinder](https://www.iconfinder.com/)
 
 [optmizilla](https://imagecompressor.com/pt/)
+### Validação W3C
+[html](https://validator.w3.org/)
+
+[css](https://jigsaw.w3.org/css-validator/)
+
