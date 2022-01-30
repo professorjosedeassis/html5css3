@@ -70,7 +70,10 @@ header {
 
 label {
     font-size: 3em;
-    padding-right: 15px;
+    position: fixed;
+    top: 5px;
+    right: 15px;
+    color: rgba(0,0,0,0.5);
 }
 
 nav ul {
