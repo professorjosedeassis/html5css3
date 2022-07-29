@@ -53,8 +53,7 @@ body {
 
 .Flex6 {
     display: flex;
-    justify-content: space-around;
-    flex-direction: row-reverse;
+    justify-content: space-around;    
 }
 
 .Botao {
@@ -471,6 +470,10 @@ footer {
 
     #googleMaps {
         display: inline;
+    }
+
+    .Flex6 {
+        flex-direction: row-reverse;
     }
 
 }
