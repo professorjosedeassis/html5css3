@@ -46,6 +46,17 @@ body {
     justify-content: space-evenly;
 }
 
+.Flex5 {
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.Flex6 {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row-reverse;
+}
+
 .Botao {
     text-decoration: none;
     color: #fff;
@@ -264,6 +275,47 @@ main h2 {
     font-size: 1.25em;
 }
 
+/* rodapé */
+address {
+    padding: 35px 10px 50px 10px;
+    background: url(img/background2.png);
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+}
+
+address a {
+    text-decoration: none;
+    color: #fff;
+}
+
+address img {
+    padding-top: 15px;
+}
+
+#iconeLocal {
+    display: none;
+}
+
+#dados {
+    margin: 30px 0px 15px 0px;
+}
+
+#googleMaps {
+    display: none;
+}
+
+footer {
+    padding: 50px;
+    background-color: #343538;
+    color: #fff;
+    text-align: center;
+}
+
+#social {
+    margin-bottom: 25px;
+}
+
 /* Smartphone Landscape >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 @media (min-width: 576px) {
     /* Layout */
@@ -280,6 +332,17 @@ main h2 {
     #video iframe{
         width: 560px;
         height: 315px;
+    }
+
+    /* Rodapé */
+    .Flex5 {
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    #social {
+        margin: 0;
     }
 }
 
@@ -395,6 +458,19 @@ main h2 {
     #qrcode img {
         width: 225px;
         height: 225px;
+    }
+
+    /* Rodapé */
+    #iconeLocal {
+        display: inline;
+    }
+
+    #iconeMapa {
+        display: none;
+    }
+
+    #googleMaps {
+        display: inline;
     }
 
 }
