@@ -4,12 +4,14 @@
 
 # HTML5 e CSS3 - One page site
 Aprenda HTML5, CSS3 e SEO de forma simples, prática e objetiva desenvolvendo passo a passo do zero até a hospedagem um site moderno e responsivo.
-## Apresentação do projeto
+## Apresentação
 [![HTML5 e CSS3 - One Page Site](https://img.youtube.com/vi/bS720dGvAn8/0.jpg)](https://youtu.be/bS720dGvAn8 "Apresentação do projeto")
 
 ![YouTube Video Views](https://img.shields.io/youtube/views/bS720dGvAn8?style=social)
 ### Playlist
 [Iniciar tutorial](https://www.youtube.com/playlist?list=PLbEOwbQR9lqySIIlPJ-Qwo4f4HSuXVeWk)
+### Slides do curso
+[![CSS FlexBox](https://github.com/professorjosedeassis/html5css3/blob/main/img/slide.png)](https://pt.slideshare.net/josedeassisfilho/css-flexbox-252669331 "Apresentação dos slides")
 ### Autor
 Professor José de Assis
 ### Construído com
