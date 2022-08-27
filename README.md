@@ -3,7 +3,7 @@
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fhtml5css3.com.br)
 
 # HTML5 e CSS3 - One page site
-Aprenda HTML5, CSS3 e SEO de forma simples, prática e objetiva desenvolvendo passo a passo do zero até a hospedagem um site moderno e responsivo.
+Aprenda HTML5, CSS3 e técnicas de SEO de forma simples, prática e objetiva desenvolvendo passo a passo do zero até a hospedagem um site moderno e responsivo.
 ### Autor
 Professor José de Assis
 ### Apresentação do curso
@@ -12,10 +12,13 @@ Professor José de Assis
 ![YouTube Video Views](https://img.shields.io/youtube/views/bS720dGvAn8?style=social)
 ### Playlist
 [Iniciar curso](https://www.youtube.com/playlist?list=PLbEOwbQR9lqySIIlPJ-Qwo4f4HSuXVeWk)
-### Slides do curso
-[![CSS FlexBox](https://github.com/professorjosedeassis/html5css3/blob/main/img/slide.png)](https://pt.slideshare.net/josedeassisfilho/css-flexbox-252669331 "Apresentação dos slides")
 ### Certificado
 [Iniciar teste](https://forms.gle/1Rz9Nw4kGCaMxxKi9)
+### Slides do curso
+#### Planejamento
+[![Planejamento](https://github.com/professorjosedeassis/html5css3/blob/main/img/slide2.png)](https://pt.slideshare.net/josedeassisfilho/planejamento-htm5-e-css3 "Apresentação dos slides")
+#### CSS FlexBox
+[![CSS FlexBox](https://github.com/professorjosedeassis/html5css3/blob/main/img/slide.png)](https://pt.slideshare.net/josedeassisfilho/css-flexbox-252669331 "Apresentação dos slides")
 ## Links indicados
 ### Planejamento
 [cetic](https://www.cetic.br/)
