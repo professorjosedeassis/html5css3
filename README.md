@@ -3,7 +3,7 @@
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fhtml5css3.com.br)
 
 <p>
-    <a href="[https://jigsaw.w3.org/css-validator/check/referer](https://jigsaw.w3.org/css-validator/validator?lang=pt-BR&profile=css3svg&uri=https%3A%2F%2Fhtml5css3.com.br%2F&usermedium=all&vextwarning=&warning=1)">
+    <a href="http://jigsaw.w3.org/css-validator/validator?lang=pt-BR&profile=css3svg&uri=https%3A%2F%2Fhtml5css3.com.br%2F&usermedium=all&vextwarning=&warning=1">
         <img style="border:0;width:88px;height:31px"
             src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
             alt="CSS válido!" />
