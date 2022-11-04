@@ -68,11 +68,7 @@ Professor José de Assis
 
 ### Você também pode me pagar um café! ☕
 
-### PIX:
+### Chave PIX:
 ` josedeassisfilho@gmail.com `
-### PayPal:
-<p align="left">
-<a href="https://www.paypal.com/donate?business=SGD8GH9PHZFY4&item_name=Professor+Jos%C3%A9+de+Assis&currency_code=BRL" target="blank"><img align="center" src="https://github.com/professorjosedeassis/joseassis/blob/main/img/paypal.gif?raw=true" alt="paypal" /></a>
-</p>
 
 ### :smiley: Muito obrigado pelo apoio!
