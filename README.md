@@ -14,15 +14,15 @@
 Aprenda HTML5, CSS3 e técnicas de SEO de forma simples, prática e objetiva desenvolvendo passo a passo do zero até a hospedagem um site moderno e responsivo.
 ### Autor
 Professor José de Assis
-### Apresentação do curso
+### Apresentação do tutorial
 [![HTML5 e CSS3 - One Page Site](https://img.youtube.com/vi/bS720dGvAn8/0.jpg)](https://youtu.be/bS720dGvAn8 "Apresentação do projeto")
 
 ![YouTube Video Views](https://img.shields.io/youtube/views/bS720dGvAn8?style=social)
 ### Playlist
-[Iniciar curso](https://www.youtube.com/playlist?list=PLbEOwbQR9lqySIIlPJ-Qwo4f4HSuXVeWk)
+[Iniciar tutorial](https://www.youtube.com/playlist?list=PLbEOwbQR9lqySIIlPJ-Qwo4f4HSuXVeWk)
 ### Certificado
 [Iniciar teste](https://forms.gle/1Rz9Nw4kGCaMxxKi9)
-### Slides do curso
+### Slides do tutorial
 #### Planejamento
 [![Planejamento](https://github.com/professorjosedeassis/html5css3/blob/main/img/slide2.png)](https://pt.slideshare.net/josedeassisfilho/planejamento-htm5-e-css3 "Apresentação dos slides")
 #### CSS FlexBox
@@ -51,11 +51,11 @@ Professor José de Assis
 
 [css](https://jigsaw.w3.org/css-validator/)
 
-## Como apoiar os cursos gratuitos e projetos?
+## Como apoiar os tutoriais e projetos?
 ### Você pode:
 :heavy_check_mark: Inscrever-se no canal do YouTube - [INSCREVA-SE!](https://www.youtube.com/c/RoboticapraticaBr/?sub_confirmation=1)
 
-:heavy_check_mark: Compartilhar os cursos e projetos
+:heavy_check_mark: Compartilhar os tutoriais e projetos
 
 :heavy_check_mark: Seguir-me nas redes sociais:
 <p align="left">
