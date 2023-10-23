@@ -161,7 +161,7 @@ nav ul li a {
 
 /* Destaque */
 main {
-  height: 55vh;
+  height: 51vh;
   background: url(img/banner.jpg);
   background-size: cover;
   background-position: center;
@@ -173,7 +173,7 @@ main {
 }
 
 main h1 {
-  font-size: 3.15em;
+  font-size: 3.1em;
 }
 
 main h2 {
@@ -336,7 +336,7 @@ footer a {
 
   /* Destaque */
   main {
-    height: 75vh;
+    height: 85vh;
   }
 
   main h1 ,
@@ -370,10 +370,6 @@ footer a {
   }
 
   /* Destaque */
-  main {
-    height: 80vh;
-  }
-
   main h1 {
     font-size: 4em;
   }
@@ -440,7 +436,7 @@ footer a {
   }
 
   main h1 {
-    font-size: 6em;
+    font-size: 7em;
   }
 
   /* Sobre */
