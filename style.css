@@ -161,7 +161,7 @@ nav ul li a {
 
 /* Destaque */
 main {
-  height: 75vh;
+  height: 55vh;
   background: url(img/banner.jpg);
   background-size: cover;
   background-position: center;
@@ -173,11 +173,11 @@ main {
 }
 
 main h1 {
-  font-size: 2.5em;
+  font-size: 3.15em;
 }
 
 main h2 {
-  font-size: 1em;
+  font-size: 1.25em;
   margin: 20px 0px 50px 0px;
 }
 
@@ -335,7 +335,11 @@ footer a {
   }
 
   /* Destaque */
-  main h1,
+  main {
+    height: 75vh;
+  }
+
+  main h1 ,
   main h2 {
     text-shadow: #000 0.05em 0.05em 0.05em;
   }
@@ -366,8 +370,12 @@ footer a {
   }
 
   /* Destaque */
+  main {
+    height: 80vh;
+  }
+
   main h1 {
-    font-size: 5.5em;
+    font-size: 4em;
   }
 
   main h2 {
@@ -380,7 +388,8 @@ footer a {
   /* Layout */
   .Container {
     max-width: 960px;
-  }
+  } 
+  
 }
 
 /* PC >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
@@ -427,7 +436,11 @@ footer a {
 
   /* Destaque */
   main {
-    height: 70vh;
+    height: 60vh;
+  }
+
+  main h1 {
+    font-size: 6em;
   }
 
   /* Sobre */
