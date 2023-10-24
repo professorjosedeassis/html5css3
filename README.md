@@ -11,9 +11,12 @@
 </p>
 
 # Tutorial HTML5 e CSS3 - One page site
-Aprenda HTML5, CSS3 e técnicas de SEO de forma simples, prática e objetiva desenvolvendo passo a passo do zero até a hospedagem um site moderno e responsivo.
+Aprenda HTML5, CSS3 e técnicas de SEO de forma simples, prática e objetiva desenvolvendo passo a passo do zero até a hospedagem um site one page moderno e responsivo.
 
-Este repositório também hospeda o projeto final.
+Este repositório também hospeda o projeto final:
+
+[https://html5css3.com.br/](https://html5css3.com.br/)
+
 ### Autor
 Professor José de Assis
 ### Apresentação
