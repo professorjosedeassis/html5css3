@@ -10,18 +10,18 @@
     </a>
 </p>
 
-# HTML5 e CSS3 - One page site
+# Tutorial HTML5 e CSS3 - One page site
 Aprenda HTML5, CSS3 e técnicas de SEO de forma simples, prática e objetiva desenvolvendo passo a passo do zero até a hospedagem um site moderno e responsivo.
 
 Este repositório também hospeda o projeto final.
 ### Autor
 Professor José de Assis
-### Apresentação do tutorial
+### Apresentação
 [![HTML5 e CSS3 - One Page Site](https://img.youtube.com/vi/bS720dGvAn8/0.jpg)](https://youtu.be/bS720dGvAn8 "Apresentação do projeto")
 
 ![YouTube Video Views](https://img.shields.io/youtube/views/bS720dGvAn8?style=social)
-### Playlist
-[Iniciar tutorial](https://www.youtube.com/playlist?list=PLbEOwbQR9lqySIIlPJ-Qwo4f4HSuXVeWk)
+### Iniciar tutorial
+[Playlist](https://www.youtube.com/playlist?list=PLbEOwbQR9lqySIIlPJ-Qwo4f4HSuXVeWk)
 ### Slides do tutorial
 #### Planejamento
 [![Planejamento](https://github.com/professorjosedeassis/html5css3/blob/main/img/slide2.png)](https://pt.slideshare.net/josedeassisfilho/planejamento-htm5-e-css3 "Apresentação dos slides")
