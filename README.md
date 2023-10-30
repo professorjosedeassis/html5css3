@@ -10,8 +10,8 @@
     </a>
 </p>
 
-# Tutorial HTML5 e CSS3 - One page site
-Aprenda HTML5, CSS3 e técnicas de SEO de forma simples, prática e objetiva desenvolvendo passo a passo do zero até a hospedagem um site one page moderno e responsivo.
+# Site One Page
+Desenvolva passo a passo do "zero" até a hospedagem um site one page moderno e responsivo usando apenas HTML5, CSS3.
 
 Este repositório também hospeda o projeto final:
 
