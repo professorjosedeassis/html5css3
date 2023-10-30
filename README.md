@@ -11,7 +11,7 @@
 </p>
 
 # Site One Page
-Desenvolva passo a passo do "zero" até a hospedagem um site one page moderno e responsivo usando apenas HTML5, CSS3.
+Desenvolva passo a passo do "zero" até a hospedagem um site one page moderno e responsivo usando apenas HTML5 e CSS3.
 
 Este repositório também hospeda o projeto final:
 
