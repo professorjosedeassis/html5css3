@@ -24,8 +24,13 @@ Professor José de Assis
 
 ![YouTube Video Views](https://img.shields.io/youtube/views/bS720dGvAn8?style=social)
 ### Iniciar tutorial
-[Playlist](https://www.youtube.com/playlist?list=PLbEOwbQR9lqySIIlPJ-Qwo4f4HSuXVeWk)
-### Slides do tutorial
+▶️ [Playlist](https://www.youtube.com/playlist?list=PLbEOwbQR9lqySIIlPJ-Qwo4f4HSuXVeWk)
+### Certificado deste tutorial:
+🎓 [Iniciar teste](https://docs.google.com/forms/d/e/1FAIpQLSejGPKboMgEEKovik-yuKhmNeQdMfyny9gheiRnMzHKl9lajQ/viewform)
+
+---
+
+### Slides do tutorial:
 #### Planejamento
 [![Planejamento](https://github.com/professorjosedeassis/html5css3/blob/main/img/slide2.png)](https://pt.slideshare.net/josedeassisfilho/planejamento-htm5-e-css3 "Apresentação dos slides")
 #### CSS FlexBox
