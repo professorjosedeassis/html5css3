@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="UTF-8">
+	<title>Estudo do position</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<h1>Position</h1>
+	
+	<div id="static">
+		<p>O valor position:static não se posiciona de forma especial (default)</p>
+	</div>
+	
+	<div id="relative1">
+		<p>position:relative se comporta igual ao static, exceto se for adicionado as propriedades (top, right, bottom e left) no estilo do elemento</p>	
+	</div>	
+
+	<div id="relative2">
+		<p>Definindo propriedades em um elemento position:relative, ajustamos o elemento em relação a posição atual dele. Outros elementos não vão se ajustar automaticamente para se posicionarem em qualquer espaço deixado</p>		
+	</div>
+
+	<div id="relative3">
+		<p>Este elemento está configurado com position:relative, se este elemento não estivesse com a posição relativa seu elemento filho escaparia e se posicionaria em relação ao elemento pai, neste caso o body</p>
+	
+		<div id="absolute">
+			<p>Este elemento está configurado como position:absolute e está posicionado em relação ao seu elemento pai, que obrigatóriamente deve estar configurado como position:relative</p>
+		</div>
+	</div>
+
+	<div id="fixed">
+		<p>Um elemento position:fixed sempre é posicionado em relação ao documento html, isto significa que ele sempre irá se posicionar no mesmo lugar, mesmo se "rolar" a página</p>
+	</div>
+
+</body>
+</html>
