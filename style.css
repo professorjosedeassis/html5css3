@@ -136,12 +136,12 @@ label {
 
 nav ul {
   list-style: none;
-  background-color: #343538;
+  background-color: rgba(52, 53, 56, 0.95);
   height: 100vh;
   position: fixed;
   top: 60px;
-  right: -100%;
-  width: 100%;
+  right: -65%;
+  width: 65%;
   transition: all 0.5s;
 }
 
@@ -152,6 +152,7 @@ nav ul {
 nav ul li {
   padding: 20px;
   border-bottom: 1px solid #a9a9a9;
+  text-align: right;
 }
 
 nav ul li a {
@@ -412,6 +413,7 @@ footer a {
 
   nav ul {
     position: static;
+    width: 100%;
     height: auto;
     background-color: transparent;
     margin-top: 40px;
