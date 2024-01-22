@@ -47,7 +47,7 @@ Professor José de Assis
 ### Wireframe
 [draw](https://app.diagrams.net/)
 ### Personal designer
-[matheus da costa](http://matheusdacosta.art.br/)
+[matheus da costa](https://matheusdacosta.art.br/)
 ### Tipografia
 [google fonts](https://fonts.google.com/)
 
