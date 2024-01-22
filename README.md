@@ -11,7 +11,7 @@
 </p>
 
 # Site One Page
-Desenvolva passo a passo do "zero" até a hospedagem um site one page moderno e responsivo usando apenas HTML5 e CSS3.
+Aprenda HTML5, CSS3 e técnicas de SEO desenvolvendo passo a passo do "zero" até a hospedagem um site one page moderno e responsivo.
 
 Este repositório também hospeda o projeto final:
 
@@ -25,21 +25,23 @@ Professor José de Assis
 ![YouTube Video Views](https://img.shields.io/youtube/views/bS720dGvAn8?style=social)
 ### Iniciar tutorial
 ▶️ [Playlist](https://www.youtube.com/playlist?list=PLbEOwbQR9lqySIIlPJ-Qwo4f4HSuXVeWk)
-### Certificado deste tutorial:
+### Certificado deste tutorial
 🎓 [Iniciar teste](https://docs.google.com/forms/d/e/1FAIpQLSejGPKboMgEEKovik-yuKhmNeQdMfyny9gheiRnMzHKl9lajQ/viewform)
 
 ---
 
 ### História do surgimento da internet
 [![Internet](https://github.com/professorjosedeassis/html5css3/blob/main/img/book.png)](https://online.fliphtml5.com/cyyhf/tseb/ "Ler on-line")
-### Slides do tutorial:
+### Primeiro site da internet
+[Acessar](https://info.cern.ch/)
+### Slides do tutorial
 #### HTML5
 [![html5](https://github.com/professorjosedeassis/html5css3/blob/main/img/slideHTML5.png)](https://pt.slideshare.net/josedeassisfilho/html5-33391832 "Apresentação dos slides")
 #### Planejamento
 [![Planejamento](https://github.com/professorjosedeassis/html5css3/blob/main/img/slide2.png)](https://pt.slideshare.net/josedeassisfilho/planejamento-htm5-e-css3 "Apresentação dos slides")
 #### CSS FlexBox
 [![CSS FlexBox](https://github.com/professorjosedeassis/html5css3/blob/main/img/slide.png)](https://pt.slideshare.net/josedeassisfilho/css-flexbox-252669331 "Apresentação dos slides")
-## Links indicados
+## Links indicados:
 ### Planejamento
 [cetic](https://www.cetic.br/)
 ### Wireframe
