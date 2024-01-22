@@ -30,7 +30,11 @@ Professor José de Assis
 
 ---
 
+### História do surgimento da internet
+[![Internet](https://github.com/professorjosedeassis/html5css3/blob/main/img/book.png)](https://online.fliphtml5.com/cyyhf/tseb/ "Ler on-line")
 ### Slides do tutorial:
+#### HTML5
+[![html5](https://github.com/professorjosedeassis/html5css3/blob/main/img/slideHTML5.png)](https://pt.slideshare.net/josedeassisfilho/html5-33391832 "Apresentação dos slides")
 #### Planejamento
 [![Planejamento](https://github.com/professorjosedeassis/html5css3/blob/main/img/slide2.png)](https://pt.slideshare.net/josedeassisfilho/planejamento-htm5-e-css3 "Apresentação dos slides")
 #### CSS FlexBox
