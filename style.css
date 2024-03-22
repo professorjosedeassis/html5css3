@@ -118,8 +118,9 @@ header {
 }
 
 #logo img {
-  width: 128px;
-  height: 128px;
+  width: 208px;
+  height: 130.25.4px;
+  margin-top: 10px;
 }
 
 #check {
@@ -175,11 +176,16 @@ main {
 
 main h1 {
   font-size: 3.1em;
+  text-shadow: #000 0.05em 0.05em 0.05em;
 }
 
 main h2 {
   font-size: 1.25em;
-  margin: 20px 0px 50px 0px;
+  margin: 10px 0px 45px 0px;
+  text-shadow: 0px 5px 10px #000,
+        0px 10px 10px rgba(0, 0, 0, 0.15),
+        0px 15px 15px rgba(0, 0, 0, 0.1),
+        0px 20px 20px rgba(0, 0, 0, 0.1);
 }
 
 /* Sobre */
@@ -337,13 +343,8 @@ footer a {
 
   /* Destaque */
   main {
-    height: 85vh;
-  }
-
-  main h1 ,
-  main h2 {
-    text-shadow: #000 0.05em 0.05em 0.05em;
-  }
+    height: 77vh;
+  }  
 
   /* One page */
   #video iframe {
@@ -371,6 +372,10 @@ footer a {
   }
 
   /* Destaque */
+  main {
+    height: 40vh;
+  }  
+
   main h1 {
     font-size: 4em;
   }
@@ -386,7 +391,11 @@ footer a {
   .Container {
     max-width: 960px;
   } 
-  
+
+  /* Destaque */
+  main {
+    height: 50vh;
+  }
 }
 
 /* PC >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
@@ -398,13 +407,13 @@ footer a {
 
   /* Cabeçalho */
   header {
-    height: 120px;
+    height: 135px;
   }
 
   #logo img {
-    width: 189px;
-    height: 189px;
-    margin-top: 30px;
+    width: 416px;
+    height: 260.5px;
+    margin-top: 25px;
   }
 
   label {
