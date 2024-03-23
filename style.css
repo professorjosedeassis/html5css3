@@ -29,35 +29,38 @@ body {
   margin: 0 auto;
 }
 
-.Flex {
+.Flex,
+.Flex2,
+.Flex3,
+.Flex4,
+.Flex5,
+.Flex6 {
   display: flex;
+}
+
+.Flex {
   justify-content: space-between;
 }
 
 .Flex2 {
-  display: flex;
   align-items: center;
 }
 
-.Flex3 {
-  display: flex;
+.Flex3,
+.Flex6 {
   flex-direction: column;
 }
 
 .Flex4 {
-  display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
 }
 
 .Flex5 {
-  display: flex;
   flex-direction: column-reverse;
 }
 
 .Flex6 {
-  display: flex;
-  flex-direction: column;
   justify-content: space-around;
 }
 
@@ -119,7 +122,7 @@ header {
 
 #logo img {
   width: 208px;
-  height: 130.25.4px;
+  height: 130.25px;
   margin-top: 10px;
 }
 
@@ -146,7 +149,7 @@ nav ul {
   transition: all 0.5s;
 }
 
-#check:checked ~ ul {
+#check:checked~ul {
   right: 0;
 }
 
@@ -183,9 +186,9 @@ main h2 {
   font-size: 1.25em;
   margin: 10px 0px 45px 0px;
   text-shadow: 0px 5px 10px #000,
-        0px 10px 10px rgba(0, 0, 0, 0.15),
-        0px 15px 15px rgba(0, 0, 0, 0.1),
-        0px 20px 20px rgba(0, 0, 0, 0.1);
+    0px 10px 10px rgba(0, 0, 0, 0.15),
+    0px 15px 15px rgba(0, 0, 0, 0.1),
+    0px 20px 20px rgba(0, 0, 0, 0.1);
 }
 
 /* Sobre */
@@ -336,6 +339,7 @@ footer a {
 
 /* Smartphone Landscape >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 @media (min-width: 576px) {
+
   /* Layout */
   .Container {
     max-width: 540px;
@@ -344,7 +348,7 @@ footer a {
   /* Destaque */
   main {
     height: 77vh;
-  }  
+  }
 
   /* One page */
   #video iframe {
@@ -366,6 +370,7 @@ footer a {
 
 /* Tablet Portrait >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 @media (min-width: 768px) {
+
   /* Layout */
   .Container {
     max-width: 720px;
@@ -374,23 +379,24 @@ footer a {
   /* Destaque */
   main {
     height: 40vh;
-  }  
+  }
 
   main h1 {
     font-size: 4em;
   }
 
   main h2 {
-    font-size: 2em;
+    font-size: 2.5em;
   }
 }
 
 /* Tablet Landscape >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 @media (min-width: 992px) {
+
   /* Layout */
   .Container {
     max-width: 960px;
-  } 
+  }
 
   /* Destaque */
   main {
@@ -400,6 +406,7 @@ footer a {
 
 /* PC >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 @media (min-width: 1200px) {
+
   /* Layout */
   .Container {
     max-width: 1140px;
@@ -413,7 +420,7 @@ footer a {
   #logo img {
     width: 416px;
     height: 260.5px;
-    margin-top: 25px;
+    margin-top: 20px;
   }
 
   label {
@@ -443,7 +450,7 @@ footer a {
 
   /* Destaque */
   main {
-    height: 60vh;
+    height: 70vh;
   }
 
   main h1 {
