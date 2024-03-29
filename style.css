@@ -382,11 +382,11 @@ footer a {
   }
 
   main h1 {
-    font-size: 5.5em;
+    font-size: 5.8em;
   }
 
   main h2 {
-    font-size: 2em;
+    font-size: 2.3em;
   }
 }
 
@@ -445,7 +445,7 @@ footer a {
 
   /* Destaque */
   main {
-    height: 75vh;
+    height: 57vh;
   }
 
   main h1 {
