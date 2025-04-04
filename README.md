@@ -78,8 +78,3 @@ josedeassisfilho@gmail.com
 E olha, só de dar uma estrela ⭐, seguir o repositório e compartilhar, você já está dando uma baita força!
 
 😃 Valeu demais pelo apoio!
-
-<a href="https://twitter.com/joseassis" target="blank"><img align="center" src="https://github.com/professorjosedeassis/joseassis/blob/main/img/twitter.png" alt="joseassis" height="48" width="48" /></a>
-</p>
-
-### :smiley: Muito obrigado pelo apoio!
