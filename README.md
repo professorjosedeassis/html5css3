@@ -65,22 +65,20 @@ Professor José de Assis
 
 [css](https://jigsaw.w3.org/css-validator/)
 
-## Como apoiar os tutoriais e projetos?
-### Você pode me pagar um café! ☕
+<hr>
 
-#### Chave PIX:
-` josedeassisfilho@gmail.com `
-### Você também pode:
-:heavy_check_mark: Inscrever-se no canal do YouTube - [INSCREVA-SE!](https://www.youtube.com/c/RoboticapraticaBr/?sub_confirmation=1)
+### ☕ Projetos sem café? Impossível!
+Criar e compartilhar projetos gratuitos exige tempo, dedicação e, claro, muito café! Se quiser apoiar, um "cafezinho" faz toda a diferença. <br>Sua doação incentiva mais projetos reais e mantém a motivação lá em cima!
+#### Chave PIX❖:
+~~~txt
+josedeassisfilho@gmail.com
+~~~
+*( em nome de José de Assis Filho )*
 
-:heavy_check_mark: Compartilhar os tutoriais e projetos
+E olha, só de dar uma estrela ⭐, seguir o repositório e compartilhar, você já está dando uma baita força!
 
-:heavy_check_mark: Seguir-me nas redes sociais:
-<p align="left">
-<a href="https://www.youtube.com/c/roboticapraticabr" target="blank"><img align="center" src="https://github.com/professorjosedeassis/joseassis/blob/main/img/youtube.png" alt="roboticapraticabr" height="48" width="48" /></a>
-<a href="https://linkedin.com/in/professorjosedeassis" target="blank"><img align="center" src="https://github.com/professorjosedeassis/joseassis/blob/main/img/linkedin.png" alt="professorjosedeassis" height="48" width="48" /></a>
-<a href="https://fb.com/professorjosedeassis" target="blank"><img align="center" src="https://github.com/professorjosedeassis/joseassis/blob/main/img/facebook.png" alt="professorjosedeassis" height="48" width="48" /></a>
-<a href="https://instagram.com/prof.joseassis" target="blank"><img align="center" src="https://github.com/professorjosedeassis/joseassis/blob/main/img/instagram.png" alt="prof.joseassis" height="48" width="48" /></a>
+😃 Valeu demais pelo apoio!
+
 <a href="https://twitter.com/joseassis" target="blank"><img align="center" src="https://github.com/professorjosedeassis/joseassis/blob/main/img/twitter.png" alt="joseassis" height="48" width="48" /></a>
 </p>
 
