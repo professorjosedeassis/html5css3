@@ -70,9 +70,8 @@ body {
   color: #fff;
   font-size: 1.3em;
   font-weight: 700;
-  background-color: #c00000;
+  background-color: #E44D26;
   padding: 10px 40px;
-  border: 2px solid #fff;
   border-radius: 25px;
 }
 
@@ -110,7 +109,6 @@ body {
 
 .Card a {
   padding: 10px 100px;
-  border: 0;
 }
 
 /* Smartphone Portrait >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
@@ -166,8 +164,8 @@ nav ul li a {
 
 /* Destaque */
 main {
-  height: 51vh;
-  background: url(img/banner.jpg);
+  height: 45vh;
+  background: url(img/banner2.jpg);
   background-size: cover;
   background-position: center;
   color: #fff;
@@ -178,13 +176,16 @@ main {
 }
 
 main h1 {
-  font-size: 3.1em;
-  text-shadow: #000 0.05em 0.05em 0.05em;
+  font-size: 3.1em; 
+  text-shadow: 0px 5px 10px #434343,
+    0px 10px 10px rgba(0, 0, 0, 0.15),
+    0px 15px 15px rgba(0, 0, 0, 0.1),
+    0px 20px 20px rgba(0, 0, 0, 0.1);
 }
 
 main h2 {
   font-size: 1.25em;
-  margin-bottom: 40px;
+  margin-bottom: 50px;
   text-shadow: 0px 5px 10px #000,
     0px 10px 10px rgba(0, 0, 0, 0.15),
     0px 15px 15px rgba(0, 0, 0, 0.1),
@@ -245,6 +246,10 @@ main h2 {
   background: url(img/background.png);
   background-size: cover;
   background-position: center;
+}
+
+#wireframe a {
+  border: 2px solid #fff;
 }
 
 #textoWire {
@@ -378,7 +383,7 @@ footer a {
 
   /* Destaque */
   main {
-    height: 50vh;
+    height: 60vh;
   }
 
   main h1 {
@@ -396,7 +401,7 @@ footer a {
   /* Layout */
   .Container {
     max-width: 960px;
-  } 
+  }
 }
 
 /* PC >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
@@ -413,9 +418,9 @@ footer a {
   }
 
   #logo img {
-    width: 416px;
-    height: 260.5px;
-    margin-top: 20px;
+    width: 277.3px;
+    height: 173.6px;
+    margin-top: 45px;
   }
 
   label {
@@ -440,14 +445,10 @@ footer a {
   }
 
   nav ul li a:hover {
-    color: #c00000;
+    color: #E44D26;
   }
 
   /* Destaque */
-  main {
-    height: 60vh;
-  }
-
   main h1 {
     font-size: 6.8em;
   }
