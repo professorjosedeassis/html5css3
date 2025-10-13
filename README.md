@@ -15,7 +15,7 @@ Você vai aprender como estruturar seu HTML de forma semântica, estilizar com C
 
 Este repositório também hospeda o projeto final:
 
-[https://html5css3.com.br/](https://html5css3.com.br/)
+[html5css3.com.br](https://html5css3.com.br/)
 
 ### Autor
 Professor José de Assis
