@@ -31,7 +31,8 @@ Professor José de Assis
 ---
 
 ### História do surgimento da internet
-[![Internet](https://github.com/professorjosedeassis/html5css3/blob/main/img/book.png)](https://online.fliphtml5.com/cyyhf/tseb/ "Ler on-line")
+[![História do surgimento da internet](https://img.youtube.com/vi/t1uKa_qggSU/0.jpg)](https://youtu.be/t1uKa_qggSU?si=VbsetT-GikTDsHy1 "Assistir no YouTube")
+
 ### História do HTML
 [![html5](https://github.com/professorjosedeassis/html5css3/blob/main/img/slide_HTML5.png)](https://pt.slideshare.net/josedeassisfilho/html5-33391832 "Apresentação dos slides")
 ### Primeiro site da internet
