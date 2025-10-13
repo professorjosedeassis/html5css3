@@ -19,16 +19,17 @@ Este repositório também hospeda o projeto final:
 
 ### Autor
 Professor José de Assis
-### Apresentação
+### Apresentação do projeto
 [![HTML5 e CSS3 - One Page Site](https://img.youtube.com/vi/bS720dGvAn8/0.jpg)](https://youtu.be/bS720dGvAn8 "Apresentação do projeto")
 
 ![YouTube Video Views](https://img.shields.io/youtube/views/bS720dGvAn8?style=social)
 ### Iniciar tutorial
 ▶️ [Playlist](https://www.youtube.com/playlist?list=PLbEOwbQR9lqySIIlPJ-Qwo4f4HSuXVeWk)
-### Certificado deste tutorial
-🎓 [Iniciar teste](https://docs.google.com/forms/d/e/1FAIpQLSejGPKboMgEEKovik-yuKhmNeQdMfyny9gheiRnMzHKl9lajQ/viewform)
+
 
 ---
+## Material de apoio
+Aqui você encontra todos os recursos complementares deste tutorial: slides das aulas, links recomendados, códigos utilizados e materiais extras para aprofundar seus estudos. Tudo reunido em um só lugar para você acompanhar o curso com mais facilidade e aproveitar ao máximo cada etapa da construção do seu site!
 
 ### História do surgimento da internet
 [![História do surgimento da internet](https://img.youtube.com/vi/t1uKa_qggSU/0.jpg)](https://youtu.be/t1uKa_qggSU?si=VbsetT-GikTDsHy1 "Assistir no YouTube")
@@ -65,6 +66,10 @@ Professor José de Assis
 [html](https://validator.w3.org/)
 
 [css](https://jigsaw.w3.org/css-validator/)
+
+---
+### Certificado deste tutorial
+🎓 [Iniciar teste](https://docs.google.com/forms/d/e/1FAIpQLSejGPKboMgEEKovik-yuKhmNeQdMfyny9gheiRnMzHKl9lajQ/viewform)
 
 <hr>
 
