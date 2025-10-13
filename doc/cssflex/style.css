@@ -1,0 +1,26 @@
+/* Layout */
+.container {
+    display: flex;
+    /*flex-direction: column;*/
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.vermelho {
+    width: 256px;
+    height: 256px;
+    background-color: #ff0000;
+}
+
+.verde {
+    width: 300px;
+    height: 200px;
+    background-color: #00ff00;
+}
+
+.azul {
+    width: 256px;
+    height: 256px;
+    background-color: #0000ff;
+}
