@@ -1,5 +1,4 @@
 ![GitHub](https://img.shields.io/github/license/professorjosedeassis/html5css3)
-![W3C Validation](https://img.shields.io/w3c-validation/default?targetUrl=https%3A%2F%2Fhtml5css3.com.br%2F)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fhtml5css3.com.br)
 
 <p>
@@ -11,7 +10,8 @@
 </p>
 
 # Site One Page
-Aprenda HTML5, CSS3 e técnicas de SEO desenvolvendo passo a passo do "zero" até a hospedagem um site one page moderno e responsivo.
+Quer aprender HTML5 e CSS3 na prática, construindo um site de verdade? Então essa playlist é pra você! Aqui, você vai criar um site completo estilo one page, moderno, responsivo e feito do zero (passo a passo, sem pular etapas).
+Você vai aprender como estruturar seu HTML de forma semântica, estilizar com CSS3 moderno, aplicar cores, fontes, imagens e deixar tudo bonito com Flexbox e Media Queries. E claro, ainda damos aquele toque de SEO básico pra deixar seu projeto mais amigável aos buscadores. Tudo de forma prática, objetiva e com um resultado final que você vai se orgulhar de ter feito do zero. Ideal pra quem está começando ou quer reforçar a base com um projeto real!
 
 Este repositório também hospeda o projeto final:
 
