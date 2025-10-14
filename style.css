@@ -119,8 +119,8 @@ header {
 }
 
 #logo img {
-  width: 208px;
-  height: 130.25px;
+  width: 195.8px;
+  height: 122.6px;
   margin-top: 10px;
 }
 
@@ -176,20 +176,19 @@ main {
 }
 
 main h1 {
-  font-size: 3.1em; 
+  font-size: 3em;
   text-shadow: 0px 5px 10px #434343,
     0px 10px 10px rgba(0, 0, 0, 0.15),
     0px 15px 15px rgba(0, 0, 0, 0.1),
     0px 20px 20px rgba(0, 0, 0, 0.1);
+  margin: 10px 0px;
 }
 
 main h2 {
-  font-size: 1.25em;
-  margin-bottom: 50px;
-  text-shadow: 0px 5px 10px #000,
-    0px 10px 10px rgba(0, 0, 0, 0.15),
-    0px 15px 15px rgba(0, 0, 0, 0.1),
-    0px 20px 20px rgba(0, 0, 0, 0.1);
+  font-size: 1.2em;
+  font-weight: 500;
+  color: #000000;
+  margin-bottom: 30px;
 }
 
 /* Sobre */
@@ -352,7 +351,7 @@ footer a {
 
   /* Destaque */
   main {
-    height: 77vh;
+    height: 70vh;
   }
 
   /* One page */
@@ -383,15 +382,7 @@ footer a {
 
   /* Destaque */
   main {
-    height: 60vh;
-  }
-
-  main h1 {
-    font-size: 5.8em;
-  }
-
-  main h2 {
-    font-size: 2.3em;
+    height: 35vh;
   }
 }
 
@@ -449,8 +440,24 @@ footer a {
   }
 
   /* Destaque */
+  main {
+    height: 50vh;
+  }
+
   main h1 {
-    font-size: 6.8em;
+    font-size: 5em;
+    margin: 0;
+  }
+
+  main h2 {
+    font-size: 1.6em;
+    font-weight: 600;
+    color: #ffffff;
+    text-shadow: 0px 5px 10px #000,
+      0px 10px 10px rgba(0, 0, 0, 0.15),
+      0px 15px 15px rgba(0, 0, 0, 0.1),
+      0px 20px 20px rgba(0, 0, 0, 0.1);
+    margin-bottom: 50px;
   }
 
   /* Sobre */
@@ -510,5 +517,24 @@ footer a {
 
   #googleMaps {
     display: inline;
+  }
+}
+
+/* PC Full HD >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+@media (min-width: 1400px) {
+
+  /****** Layout ******/
+  .container {
+    max-width: 1360px;
+    /* background-color: #7d5b8c; */
+  }
+
+  /* Destaque */
+  main h1 {
+    font-size: 8em;
+  }
+
+  main h2 {
+    font-size: 2.5em;
   }
 }
