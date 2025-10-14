@@ -1,18 +1,20 @@
-/*
-    Folha de estilo do site One Page HTML5 e CSS3
-    html5css3.com.br
-    @author Professor José de Assis
-    joseassis.com.br
-*/
-
-/* Importação (Google Fonts) */
-@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap");
+/* Variáveis */
+:root {
+  --branco: #fff;
+  --cinzaClaro: #e8e8e8;
+  --cinzaMedio: #a1a1a1;
+  --cinzaEscurobkp: #434343;
+  --cinzaEscuro: #343538;
+  --laranja: #E44D26;
+  --preto: #000;
+}
 
 /* CSS Reset */
 * {
   margin: 0;
   border: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 html {
@@ -21,7 +23,6 @@ html {
 
 body {
   font-family: "Open Sans", sans-serif;
-  font-size: 1em;
 }
 
 /* Layout */
@@ -67,10 +68,10 @@ body {
 /* Botão */
 .Botao {
   text-decoration: none;
-  color: #fff;
-  font-size: 1.3em;
+  color: var(--branco);
+  font-size: 1.3rem;
   font-weight: 700;
-  background-color: #E44D26;
+  background-color: var(--laranja);
   padding: 10px 40px;
   border-radius: 25px;
 }
@@ -87,8 +88,8 @@ body {
   margin-top: 25px;
   width: 338px;
   height: 520px;
-  background-color: #e8e8e8;
-  border: 1px solid #a1a1a1;
+  background-color: var(--cinzaClaro);
+  border: 1px solid var(--cinzaMedio);
   border-radius: 25px;
   text-align: center;
 }
@@ -103,7 +104,7 @@ body {
 
 .Card p {
   text-align: left;
-  color: #434343;
+  color: var(--cinzaEscuro);
   padding: 10px 30px 50px 30px;
 }
 
@@ -129,7 +130,7 @@ header {
 }
 
 label {
-  font-size: 3em;
+  font-size: 3rem;
   position: fixed;
   top: 5px;
   right: 15px;
@@ -153,13 +154,13 @@ nav ul {
 
 nav ul li {
   padding: 20px;
-  border-bottom: 1px solid #a9a9a9;
+  border-bottom: 1px solid var(--cinzaMedio);
   text-align: right;
 }
 
 nav ul li a {
   text-decoration: none;
-  color: #fff;
+  color: var(--branco);
 }
 
 /* Destaque */
@@ -168,7 +169,7 @@ main {
   background: url(img/banner2.jpg);
   background-size: cover;
   background-position: center;
-  color: #fff;
+  color: var(--branco);
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -176,8 +177,9 @@ main {
 }
 
 main h1 {
-  font-size: 3em;
-  text-shadow: 0px 5px 10px #434343,
+  font-size: 3rem;
+  font-weight: 900;
+  text-shadow: 0px 5px 10px var(--cinzaEscuro),
     0px 10px 10px rgba(0, 0, 0, 0.15),
     0px 15px 15px rgba(0, 0, 0, 0.1),
     0px 20px 20px rgba(0, 0, 0, 0.1);
@@ -185,9 +187,9 @@ main h1 {
 }
 
 main h2 {
-  font-size: 1.2em;
+  font-size: 1.2rem;
   font-weight: 500;
-  color: #000000;
+  color: var(--preto);
   margin-bottom: 30px;
 }
 
@@ -204,7 +206,7 @@ main h2 {
 }
 
 #textoSobre {
-  color: #fff;
+  color: var(--branco);
   padding: 0px 10px;
 }
 
@@ -248,11 +250,11 @@ main h2 {
 }
 
 #wireframe a {
-  border: 2px solid #fff;
+  border: 2px solid var(--branco);
 }
 
 #textoWire {
-  color: #fff;
+  color: var(--branco);
   padding: 0px 10px;
 }
 
@@ -289,9 +291,9 @@ main h2 {
 
 #todos a {
   text-decoration: none;
-  color: #000;
+  color: var(--preto);
   font-weight: 700;
-  font-size: 1.25em;
+  font-size: 1.25rem;
 }
 
 /* Rodapé */
@@ -300,12 +302,12 @@ address {
   background: url(img/background2.png);
   background-size: cover;
   background-position: center;
-  color: #fff;
+  color: var(--branco);
 }
 
 address a {
   text-decoration: none;
-  color: #fff;
+  color: var(--branco);
 }
 
 address img {
@@ -326,15 +328,15 @@ address img {
 
 footer {
   padding: 50px 0px;
-  background-color: #343538;
-  font-size: 0.875em;
-  color: #fff;
+  background-color: var(--cinzaEscuro);
+  font-size: 0.875rem;
+  color: var(--branco);
   text-align: center;
 }
 
 footer a {
   text-decoration: none;
-  color: #fff;
+  color: var(--branco);
 }
 
 #social {
@@ -432,11 +434,11 @@ footer a {
   }
 
   nav ul li a {
-    color: #343538;
+    color: var(--cinzaEscuro);
   }
 
   nav ul li a:hover {
-    color: #E44D26;
+    color: var(--laranja);
   }
 
   /* Destaque */
@@ -445,15 +447,15 @@ footer a {
   }
 
   main h1 {
-    font-size: 5em;
+    font-size: 5rem;
     margin: 0;
   }
 
   main h2 {
-    font-size: 1.6em;
-    font-weight: 600;
-    color: #ffffff;
-    text-shadow: 0px 5px 10px #000,
+    font-size: 1.6rem;
+    font-weight: 800;
+    color: var(--branco);
+    text-shadow: 0px 5px 10px var(--preto),
       0px 10px 10px rgba(0, 0, 0, 0.15),
       0px 15px 15px rgba(0, 0, 0, 0.1),
       0px 20px 20px rgba(0, 0, 0, 0.1);
@@ -526,15 +528,14 @@ footer a {
   /****** Layout ******/
   .container {
     max-width: 1360px;
-    /* background-color: #7d5b8c; */
   }
 
   /* Destaque */
   main h1 {
-    font-size: 8em;
+    font-size: 7.5rem;
   }
 
   main h2 {
-    font-size: 2.5em;
+    font-size: 2.5rem;
   }
 }
