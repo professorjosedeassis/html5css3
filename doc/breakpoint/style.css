@@ -1,0 +1,47 @@
+/* Smartphone Portrait >>>>>>>>>>>>>>>>>> */
+/* Fim - Smartphone Portrait <<<<<<<<<<<< */
+
+
+/* Smartphone Landscape >>>>>>>>>>>>>>>>> */
+@media (min-width: 576px) {
+    body {
+        background-color: #ff0000;
+    }
+}
+/* Fim - Smartphone Landscape <<<<<<<<<<< */
+
+
+/* Tablet Portrait >>>>>>>>>>>>>>>>>>>>>> */
+@media (min-width: 768px) {
+    body {
+        background-color: #00ff00;
+    }
+}
+/* Fim - Tablet Portrait <<<<>>>><<<<<<<< */
+
+
+/* Tablet Landscape >>>>>>>>>>>>>>>>>>>>> */
+@media (min-width: 992px) {
+    body {
+        background-color: #0000ff;
+    }
+}
+/* Fim - Tablet Landscape <<<<<<<<<<<<<<< */
+
+
+/* PC | Notebook >>>>>>>>>>>>>>>>>>>>>>>> */
+@media (min-width: 1200px) {
+    body {
+        background-color: #ffff00;
+    }
+}
+/* Fim - PC | notebook <<<<<<<<<<<<<<<<<< */
+
+
+/* Full HD | 4K >>>>>>>>>>>>>>>>>>>>>>>>> */
+@media (min-width: 1400px) {
+    body {
+        background-color: #00ffff;
+    }
+}
+/* Fim - Full HD | 4K <<<<<<<<<<<<<<<<<<< */
