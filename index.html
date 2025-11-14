@@ -24,7 +24,7 @@
             <div id="logo">
                 <img src="img/logo.png" alt="hal 9000">
             </div>
-            <nav>
+            <nav id="menu">
                 <input type="checkbox" id="check">
                 <label for="check">&#x268c;</label>
                 <ul>
@@ -175,25 +175,32 @@
                         target="_blank">Professor José de Assis</a></p>
             </div>
             <div id="social">
-                <a href="https://www.youtube.com/c/RoboticapraticaBr" target="_blank"><img src="img/youtube.png"
-                        alt="youtube"></a>
-                <a href="https://www.linkedin.com/in/professorjosedeassis" target="_blank"><img src="img/linkedin.png"
-                        alt="linkedin"></a>
-                <a href="https://www.facebook.com/professorjosedeassis" target="_blank"><img src="img/facebook.png"
-                        alt="facebook"></a>
-                <a href="https://www.instagram.com/prof.joseassis/" target="_blank"><img src="img/instagram.png"
-                        alt="instagram"></a>
-                <a href="https://twitter.com/joseassis" target="_blank"><img src="img/twitter.png" alt="twitter"></a>
+                <a href="https://www.linkedin.com/in/professorjosedeassis/" target="_blank">
+                    <img src="img/linkedin.png" alt="LinkedIn">
+                </a>
+                <a href="https://www.youtube.com/channel/UCo8eFxzEL8fzEKgPlYk5_3g" target="_blank">
+                    <img src="img/youtube.png" alt="YouTube">
+                </a>
+                <a href="https://github.com/joseassis" target="_blank">
+                    <img src="img/github.png" alt="GitHub">
+                </a>
             </div>
         </div>
     </footer>
-    <a href="#inicio" id="topo"><img src="img/topo.png" alt="topo do site"></a>
 
     <script>
         // Atualizar automaticamente o ano (footer - copyright)  
-        let ano = document.getElementById("copyrightYear")
-        let anoAtual = new Date().getFullYear()
-        ano.textContent = anoAtual
+        let ano = document.getElementById("copyrightYear");
+        let anoAtual = new Date().getFullYear();
+        ano.textContent = anoAtual;
+
+        // Collapse menu on scroll
+        window.addEventListener('scroll', function () {
+            const menuCheckbox = document.getElementById('check');
+            if (menuCheckbox.checked) {
+                menuCheckbox.checked = false;
+            }
+        });
     </script>
 </body>
 
