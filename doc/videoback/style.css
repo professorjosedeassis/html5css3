@@ -15,7 +15,7 @@ body {
 /* Smartphone portrait >>>>>>>>>>>>>>>>>>>>>>>>> */
 main {
     position: relative;
-    height: 60vh;
+    height: 70vh;
 }
 
 main video {
@@ -35,7 +35,7 @@ main video {
 }
 
 #banner h1 {
-    font-size: 2.5rem;
+    font-size: 2.2rem;
     color: #fff;
     margin-bottom: 25px;
 }
