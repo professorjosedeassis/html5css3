@@ -189,12 +189,21 @@
     </footer>
     <a href="#inicio" id="topo"><img src="img/topo.png" alt="topo do site"></a>
 
-    <script>
-        // Atualizar automaticamente o ano (footer - copyright)  
+     <script>
+        // Atualizar automaticamente o ano
         let ano = document.getElementById("copyrightYear")
         let anoAtual = new Date().getFullYear()
         ano.textContent = anoAtual
+
+        // Recolher menu ao rolar
+        window.addEventListener('scroll', function () {
+            const menuCheckbox = document.getElementById('check')
+            if (menuCheckbox.checked) {
+                menuCheckbox.checked = false
+            }
+        })
     </script>
+
 </body>
 
 </html>

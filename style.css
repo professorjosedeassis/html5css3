@@ -86,7 +86,7 @@ body {
 /* Cartões */
 .Card {
   margin-top: 25px;
-  width: 338px;
+  width: 340px;
   height: 520px;
   background-color: var(--cinzaClaro);
   border: 1px solid var(--cinzaMedio);
