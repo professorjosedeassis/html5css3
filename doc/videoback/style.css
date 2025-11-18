@@ -1,0 +1,60 @@
+/* Layout >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+/* Fim - Layout <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+
+/* Smartphone portrait >>>>>>>>>>>>>>>>>>>>>>>>> */
+main {
+    position: relative;
+    height: 70vh;
+}
+
+main video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    /*cobrir completamente container */
+}
+
+#banner {
+    position: absolute;
+    /* centralizaar o conteudo*/
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+#banner h1 {
+    font-size: 2.2rem;
+    color: #fff;
+    margin-bottom: 25px;
+}
+
+#banner h2 {
+    color: #fff;
+}
+
+/* Fim - Smartphone portrait <<<<<<<<<<<<<<<<<<<< */
+@media (min-width: 1200px) {
+    main {
+        height: 95vh;
+    }
+
+    #banner h1 {
+        font-size: 4rem;
+    }
+
+    #banner h2 {
+        font-size: 2rem;
+    }
+}

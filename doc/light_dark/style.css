@@ -1,0 +1,19 @@
+/* Permite o navegador decidir automaticamente light/dark */
+:root {
+    color-scheme: light dark;
+}
+
+/* Tema claro (padrão) */
+body {
+    font-family: sans-serif;
+    background: #ffffff;
+    color: #000000;
+}
+
+/* Tema escuro (ativado pelo sistema) */
+@media (prefers-color-scheme: dark) {
+    body {
+        background: #000000;
+        color: #ffffff;
+    }
+}
