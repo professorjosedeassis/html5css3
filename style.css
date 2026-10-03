@@ -11,6 +11,7 @@
 
 /* CSS Reset */
 * {
+  color: red;
   margin: 0;
   border: 0;
   padding: 0;
